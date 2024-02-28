@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee93546"
+  },
+  "nombre": "Ana",
+  "apellido": "López",
+  "documentoId": "111222333",
+  "mail": "ana@example.com",
+  "telefono": "555-123-4567",
+  "direccion": "Avenida X",
+  "ciudad": "Ciudad C",
+  "fechaNacimiento": "1988-03-10",
+  "sexo": "Femenino",
+  "estatura": 168
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee93547"
+  },
+  "nombre": "Carlos",
+  "apellido": "García",
+  "documentoId": "444555666",
+  "mail": "carlos@example.com",
+  "telefono": "777-987-6543",
+  "direccion": "Calle Y",
+  "ciudad": "Ciudad D",
+  "fechaNacimiento": "1995-08-22",
+  "sexo": "Masculino",
+  "estatura": 180
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee93548"
+  },
+  "nombre": "Luisa",
+  "apellido": "Martínez",
+  "documentoId": "777888999",
+  "mail": "luisa@example.com",
+  "telefono": "999-456-7890",
+  "direccion": "Carrera Z",
+  "ciudad": "Ciudad E",
+  "fechaNacimiento": "1992-12-05",
+  "sexo": "Femenino",
+  "estatura": 155
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee93549"
+  },
+  "nombre": "Diego",
+  "apellido": "Hernández",
+  "documentoId": "101112131",
+  "mail": "diego@example.com",
+  "telefono": "333-987-6543",
+  "direccion": "Avenida W",
+  "ciudad": "Ciudad F",
+  "fechaNacimiento": "1987-06-15",
+  "sexo": "Masculino",
+  "estatura": 175
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354a"
+  },
+  "nombre": "Laura",
+  "apellido": "Ramírez",
+  "documentoId": "141516171",
+  "mail": "laura@example.com",
+  "telefono": "555-789-0123",
+  "direccion": "Calle M",
+  "ciudad": "Ciudad G",
+  "fechaNacimiento": "1998-04-18",
+  "sexo": "Femenino",
+  "estatura": 160
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354b"
+  },
+  "nombre": "Roberto",
+  "apellido": "Sánchez",
+  "documentoId": "181920212",
+  "mail": "roberto@example.com",
+  "telefono": "777-123-4567",
+  "direccion": "Avenida K",
+  "ciudad": "Ciudad H",
+  "fechaNacimiento": "1993-09-25",
+  "sexo": "Masculino",
+  "estatura": 178
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354c"
+  },
+  "nombre": "Elena",
+  "apellido": "Díaz",
+  "documentoId": "222324252",
+  "mail": "elena@example.com",
+  "telefono": "999-234-5678",
+  "direccion": "Carrera N",
+  "ciudad": "Ciudad I",
+  "fechaNacimiento": "1990-07-30",
+  "sexo": "Femenino",
+  "estatura": 165
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354d"
+  },
+  "nombre": "Miguel",
+  "apellido": "Fernández",
+  "documentoId": "262728293",
+  "mail": "miguel@example.com",
+  "telefono": "111-345-6789",
+  "direccion": "Calle P",
+  "ciudad": "Ciudad J",
+  "fechaNacimiento": "1989-11-12",
+  "sexo": "Masculino",
+  "estatura": 172
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354e"
+  },
+  "nombre": "Carmen",
+  "apellido": "Ortega",
+  "documentoId": "303132333",
+  "mail": "carmen@example.com",
+  "telefono": "222-456-7890",
+  "direccion": "Avenida Q",
+  "ciudad": "Ciudad K",
+  "fechaNacimiento": "1996-02-08",
+  "sexo": "Femenino",
+  "estatura": 160
+},
+{
+  "_id": {
+    "$oid": "65de7b7119f4bd54cee9354f"
+  },
+  "nombre": "Javier",
+  "apellido": "Gómez",
+  "documentoId": "343536373",
+  "mail": "javier@example.com",
+  "telefono": "444-567-8901",
+  "direccion": "Calle R",
+  "ciudad": "Ciudad L",
+  "fechaNacimiento": "1991-05-17",
+  "sexo": "Masculino",
+  "estatura": 185
+}]
