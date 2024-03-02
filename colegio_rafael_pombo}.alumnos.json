@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93550"
+  },
+  "numeroIdentificacion": "101",
+  "nombres": "Ana",
+  "apellidos": "Martínez",
+  "direccion": "Calle 123, Ciudad A",
+  "telefono": "123-456-7890",
+  "edad": 6,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93551"
+  },
+  "numeroIdentificacion": "102",
+  "nombres": "Juan",
+  "apellidos": "Gómez",
+  "direccion": "Carrera 456, Ciudad B",
+  "telefono": "234-567-8901",
+  "edad": 7,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93552"
+  },
+  "numeroIdentificacion": "103",
+  "nombres": "María",
+  "apellidos": "López",
+  "direccion": "Avenida XYZ, Ciudad C",
+  "telefono": "345-678-9012",
+  "edad": 6,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93553"
+  },
+  "numeroIdentificacion": "104",
+  "nombres": "Carlos",
+  "apellidos": "Rodríguez",
+  "direccion": "Calle ABC, Ciudad A",
+  "telefono": "456-789-0123",
+  "edad": 7,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93554"
+  },
+  "numeroIdentificacion": "105",
+  "nombres": "Laura",
+  "apellidos": "Hernández",
+  "direccion": "Carrera UVW, Ciudad B",
+  "telefono": "567-890-1234",
+  "edad": 6,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93555"
+  },
+  "numeroIdentificacion": "106",
+  "nombres": "Miguel",
+  "apellidos": "Sánchez",
+  "direccion": "Avenida LMN, Ciudad C",
+  "telefono": "678-901-2345",
+  "edad": 7,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93556"
+  },
+  "numeroIdentificacion": "107",
+  "nombres": "Sofía",
+  "apellidos": "Díaz",
+  "direccion": "Calle DEF, Ciudad A",
+  "telefono": "789-012-3456",
+  "edad": 6,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93557"
+  },
+  "numeroIdentificacion": "108",
+  "nombres": "Diego",
+  "apellidos": "Pérez",
+  "direccion": "Carrera GHI, Ciudad B",
+  "telefono": "890-123-4567",
+  "edad": 7,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93558"
+  },
+  "numeroIdentificacion": "109",
+  "nombres": "Valentina",
+  "apellidos": "Torres",
+  "direccion": "Avenida OPQ, Ciudad C",
+  "telefono": "901-234-5678",
+  "edad": 6,
+  "grado": 1
+},
+{
+  "_id": {
+    "$oid": "65e2726319f4bd54cee93559"
+  },
+  "numeroIdentificacion": "110",
+  "nombres": "Alejandro",
+  "apellidos": "Vargas",
+  "direccion": "Calle JKL, Ciudad A",
+  "telefono": "012-345-6789",
+  "edad": 7,
+  "grado": 1
+}]
